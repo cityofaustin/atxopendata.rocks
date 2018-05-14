@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<section class="background-dark usa-section section-intro">
+  <div class="usa-grid">
+    <header>
+      {% if page.lead %}
+        <h1 class="section-heading section-heading-alt">{{ page.title }} </h1>
+        <h2>{{ page.lead }}</h2>
+        {% else %}
+          <h1 class="section-heading">{{ page.title }}</h1>
+      {% endif %}
+    </header>
+  </div>
+</section>
+<div class="main-content" id="main-content">
+<section class="usa-grid content-focus">
+  {{ content }}
+</section>
+</div>
+  <section class="usa-grid content-focus">
+<div class="main-content" id="main-content">
+  {{ content }}
+</div>
+</section>

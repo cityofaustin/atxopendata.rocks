@@ -1,0 +1,24 @@
+<a class="skipnav" href="#main-content">Skip to main content</a>
+<header role="banner">
+  <div class="usa-disclaimer">
+    <div class="usa-disclaimer-official usa-grid">
+      <p>An official website City of Austin prototype</a>
+    </div>
+  </div>
+  <div class="site-navbar usa-grid">
+    <button class="menu-btn">Menu</button>
+    <a class="site-logo media_link" href="{{ site.baseurl }}/">
+      <img src="{{ site.baseurl }}/assets/img/logos/atx-logo.jpg" alt="atx"
+      {% if page.url == '/' %}
+        aria-hidden="true"
+      {% endif %}
+      ></a>
+    {% if page.url == '/' %}
+      <h1 class="usa-sr-only">Eighteen F: Digital services delivery</h1>
+    {% endif %}
+    <nav role="navigation">
+      {% include navigation.html %}
+    </nav>
+  </div>
+</header>
+<div class="overlay"></div>

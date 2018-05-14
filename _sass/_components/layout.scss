@@ -1,0 +1,268 @@
+// Layout
+// ==========================
+
+// Remove top margins from first item and bottom margins from last item
+.usa-section,
+.usa-grid,
+.usa-width-one-whole,
+.usa-width-one-half,
+.usa-width-one-third,
+.usa-width-two-thirds,
+.usa-width-one-fourth,
+.usa-width-three-fourths,
+.usa-width-one-sixth,
+.usa-width-five-sixths,
+.usa-width-one-twelfth {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    &:first-child {
+      margin-top: 0;
+    }
+
+    &:last-child:not(:only-child) {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.usa-section {
+  @include padding($section-margins null);
+}
+
+.background-dark {
+  background-color: #5D628C;
+  color: $color-white;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    color: $color-white;
+  }
+
+  .section-heading {
+    color: #F2CC8F;
+    display: inline;
+    letter-spacing: 0.5px;
+  }
+
+  h2 {
+    letter-spacing: 0.5px;
+  }
+
+  a
+   {
+    color: $color-yellow;
+
+    &:hover {
+      color: $color-yellow;
+    }
+  }
+
+  .usa-button,
+  .usa-button-primary,
+  .usa-button:visited,
+  .usa-button-primary:visited,
+  button,
+  [type="button"],
+  [type="submit"],
+  [type="reset"] {
+    background-color: $color-bright;
+
+    &:hover {
+      background-color: $color-yellow;
+    }
+  }
+
+  .usa-search.usa-search-small [type="submit"] {
+    background-image: url("../img/global/search-dark.png");
+    background-image: url("../img/global/search-dark.svg");
+  }
+
+  input,
+  input[type="text"],
+  input[type="email"],
+  input[type="password"],
+  input[type="url"],
+  input[type="tel"],
+  input[type="number"],
+  input[type="search"],
+  input[type="file"],
+  input[type="date"],
+  input[type="datetime-local"],
+  input[type="month"],
+  input[type="time"],
+  input[type="week"],
+  textarea,
+  select {
+    border-color: $color-white;
+  }
+}
+
+// boone did this, we should do it the right way eventually
+.background-dark .usa-button.usa-button-secondary:hover {
+   color: $color-black;
+}
+
+// end of stuff boone did
+
+.header_border,
+.single-post {
+  header[role=banner] {
+    border-bottom: 1px solid #cccccc; // See if we can use a WDS color
+  }
+}
+
+// Dark blue page intros
+.section-intro {
+  header {
+    max-width: 81.2rem; // Width of 10 columns
+  }
+
+  .section-heading {
+    margin-bottom: 0;
+  }
+
+  .section-heading-alt {
+    font-size: $h2-font-size;
+  }
+
+  h2 {
+    display: inline;
+    font-size: $h2-font-size;
+    font-weight: $font-bold;
+  }
+}
+
+// A list of sections separated with a light border
+.section-list {
+  border-bottom: $border-light;
+
+  ul {
+    margin-bottom: 0;
+  }
+}
+
+.content-focus {
+  @include margin($section-margins auto);
+/* max-width: 64.063rem; */ // 8 column width at full screen
+}
+
+.usa-grid {
+  &.content-focus {
+    /* max-width: 70.563rem; */ // 64.063rem + 6rem (site margins)
+  }
+}
+
+.usa-content {
+  ol,
+  ul {
+    max-width: $text-max-width;
+  }
+}
+.card[aria-hidden=true] {
+  display: none; }
+
+.card {
+  margin-bottom: 3rem; }
+  .card:hover svg g,
+  .card:hover svg path,
+  .card:hover svg ellipse,
+  .card:hover svg polygon,
+  .card:hover svg polyline, .card:focus svg g,
+  .card:focus svg path,
+  .card:focus svg ellipse,
+  .card:focus svg polygon,
+  .card:focus svg polyline {
+    stroke: #00547A; }
+  @media screen and (min-width: 768px) {
+    .card:nth-last-of-type(1), .card:nth-last-of-type(2), .card:nth-last-of-type(3) {
+      margin-bottom: 0; }
+    .card:nth-of-type(1), .card:nth-of-type(2), .card:nth-of-type(3) {
+      margin-bottom: 3rem; } }
+
+.card-link {
+  background-color: #ffffff;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  text-decoration: none;
+  width: 100%;
+  -webkit-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2);
+  -ms-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2);
+  -o-box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 1px 9px rgba(0, 0, 0, 0.2); }
+  .card-link:hover {
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2); }
+  .card-link:active {
+    box-shadow: 0 0 3px #3e94cf, 0 0 7px #3e94cf; }
+  @media screen and (min-width: 600px) {
+    .card-link {
+      margin-bottom: 0; } }
+
+.card-link-tagline {
+  text-decoration: none; }
+
+.card-banner {
+  background-color: #ffffff;
+  flex: 1 0 auto;
+  float: left;
+  padding: 3rem;
+  width: 100%; }
+  .card-banner h4, .card-banner .h4 {
+    margin-top: 0; }
+
+.card-cta {
+  margin: 3rem;
+  margin-top: 0; }
+
+.card-image {
+  float: left; }
+
+.card-description {
+  color: initial;
+  font-size: 1.7rem; }
+
+.card-tag {
+  color: #5b616b;
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #323a45; }
+
+.card-image-bg {
+  background-color: #f1f1f1;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  margin: 0;
+  padding: 0;
+  width: 100%; }
+
+.card-image-svg svg {
+  height: 100%;
+  width: 100%;
+  padding: 3rem; }
+  .card-image-svg svg g,
+  .card-image-svg svg path,
+  .card-image-svg svg ellipse,
+  .card-image-svg svg polygon,
+  .card-image-svg svg polyline {
+    stroke: #046b99; }
+

@@ -1,0 +1,39 @@
+{% assign current = page.url | downcase | split: '/' %}
+
+<ul>
+  <li>
+    <a href="https://data.austintexas.gov/">
+      <span>Open Data Portal</span>
+    </a>
+  </li>
+  <li>
+    <a {% if current[1] == 'start' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/start/">
+      <span>Getting Started</span>
+    </a>
+  </li>
+  <li>
+    <a {% if current[1] == 'publish' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/publish/">
+      <span>Data liaisons & Publishers</span>
+    </a>
+  </li>
+  <li>
+    <a {% if current[1] == 'resources' %}class="usa-current"{% endif %} href="">
+      <span> Resources </span>
+    </a>
+  </li>
+  <li>
+    <a {% if current[1] == 'about' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/about/">
+      <span>About</span>
+    </a>
+  </li>
+<li>
+    <a href="https://opendata.bloomfire.com/">
+      <span>Blog</span>
+    </a>
+  </li>
+  <li>
+    <a {% if current[1] == 'contact' %}class="usa-current"{% endif %} href="{{ site.baseurl }}/contact/">
+      <span>Contact</span>
+    </a>
+  </li>
+</ul>

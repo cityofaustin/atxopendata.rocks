@@ -1,0 +1,18 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'ATXopendata.rocks'
+tagline:          ''
+description:      ''
+url:           https://cityofaustin.github.io/atxopendata.rocks/
+
+author:
+  name:           ''
+  url:            ''
+
+# Custom vars
+version:          0.0.0
+
+github:
+  repo:           https://cityofaustin.github.io/atxopendata.rocks/

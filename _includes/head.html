@@ -1,0 +1,61 @@
+<!-- Basic Page Needs
+================================================== -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="google-site-verification" content="" />
+
+<!-- Mobile Specific Metas
+================================================== -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Title and meta tags
+================================================== -->
+{% if page.title %}
+  <title>{{ site.title }} | {{ page.title }}</title>
+  <meta property="og:title" content="{{ site.title | xml_escape }} | {{ page.title | xml_escape }}" />
+{% else %}
+  <title>{{ site.title }} | {{ site.description }}</title>
+  <meta property="og:title" content="{{ site.title | xml_escape }} | {{ site.title | xml_escape }}" />
+{% endif %}
+
+{% if page.description %}
+  <meta name="description" content="{{ page.description | xml_escape }}">
+  <meta property="og:description" content="{{ page.description | xml_escape }}" />
+{% else %}
+  <meta name="description" content="{{ site.description | xml_escape }}">
+  <meta property="og:description" content="{{ site.description | xml_escape }}" />
+{% endif %}
+
+{% if page.author %}
+  <meta name="author" content="{{ page.author | array_to_sentence_string }}">
+{% endif %}
+
+{% if page.date %}
+  <meta name="date" content="{{ page.date }} scheme="YYYY-MM-DD">
+{% endif %}
+
+{% if page.tags %}
+  <meta name="keywords" content="{{ page.tags  | array_to_sentence_string }}">
+{% endif %}
+
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+
+<!--[if lt IE 9]>
+  <script src="{{ site.baseurl }}/assets/js/vendor/html5shiv.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/vendor/respond.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/vendor/selectivizr-min.js"></script>
+<![endif]-->
+
+<!-- Favicons
+================================================== -->
+
+  <!--  Touch icon for iOS 2.0+ and Android 2.1+ -->
+  <link rel="apple-touch-icon-precomposed" href="{{ site.baseurl }}/assets/img/favicons/favicon.ico">
+
+  <!--  More info: https://github.com/audreyr/favicon-cheat-sheet -->
+
+<!-- CSS
+================================================== -->
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
