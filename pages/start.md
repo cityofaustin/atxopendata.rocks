@@ -39,15 +39,15 @@ Datasets can be presented in tabular or non-tabular formats.
 - Non-tabular data refers to information presented in formats such as image files (jpg, png files), geospatial data (maps), or an extended mark-up language (XML) file.
 
 ### Tabular dataset examples:
-- Food Establishment Inspection Scores
-- Racial Profiling Dataset
+- <a href="https://data.austintexas.gov/Health-and-Community-Services/Food-Establishment-Inspection-Scores/ecmv-9xxi/data">Food Establishment Inspection Scores</a>
+- <a href="https://data.austintexas.gov/Public-Safety/2016-Racial-Profiling-Dataset-Arrests/834s-nvqn/data">Racial Profiling Dataset</a>
 
 ### Non-tabular dataset examples:
-- Austin Animal Center Found Pets Map
-- Credit Access Businesses Map
+- <a href="https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Found-Pets-Map/hye6-gvq2">Austin Animal Center Found Pets Map</a>
+- <a href="https://data.austintexas.gov/City-Government/Credit-Access-Businesses-Map/efz6-47ik">Credit Access Businesses Map</a>
 
 ## How datasets are created
-According to the Open Data Glossary handbook, datasets are created by collecting data in different ways: from manual or automatic measurements (e.g. weather data), surveys (census data), records of decisions (budget data) or ongoing transactions (spending data), aggregation of many records (crime data), mathematical modelling (population projections), etc.
+According to the Open Data Glossary handbook, datasets are created by collecting data in different ways: from manual or automatic measurements (e.g. weather data), surveys (census data), records of decisions (budget data) or ongoing transactions (spending data), aggregation of many records (crime data), mathematical modeling (population projections), etc.
 
 ## How to Download and Export Data
 Maybe you’ve filtered a dataset, and instead of saving it as a view, you’d like to take that data offline. Let’s walk you through the process of downloading a dataset.
@@ -84,6 +84,7 @@ you can suggest the data using the 'Suggest Dataset' feature on the portal. The 
 
 To Suggest a Dataset you can:
 - Follow this <a href="https://data.austintexas.gov/nominate">link</a> and click "Suggest a Dataset" on the top right side of the page.
+<img src="{{ site.baseurl }}/images/gettingstarted/suggesting data.png" class="export">
 <br>
 - You can also find this link under the browse all datasets pages. Please see below.
 <img src="{{ site.baseurl }}/images/gettingstarted/suggest.png" class="export">
@@ -94,9 +95,9 @@ Do you have questions about a particular dataset? On the Open Data portal you ha
 You can can use the following features:
 - You can contact a dataset owner on the main dataset page, please see photo below:
 <img src="{{ site.baseurl }}/images/gettingstarted/contact.png" class="export">
-
+<br>
 - You also contact a dataset owner through the about feature, see photo below:
-<img src="{{ site.baseurl }}/images/gettingstarted/contact.png" class="export">
+<img src="{{ site.baseurl }}/images/gettingstarted/about.png" class="export">
 
 ## Video Tutorials
  Want to continue learning about data? Learn more by checking out the following links to videos, blogs, and workflow examples.
