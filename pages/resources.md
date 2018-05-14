@@ -13,16 +13,15 @@ lead:
     </div>
     <div class="card-banner">
 
-        <p class="card-tag"> Get More Help</p>
+        <p class="card-tag"> </p>
 
 
-        <a href="{{ site.baseurl }}/faq/" tabindex="-1" class="card-link-tagline"><h3 class="h4">Frequently Asked Questions</h3></a>
+        <a href="{{ site.baseurl }}/faq/" tabindex="-1" class="card-link-tagline"><h3 class="h4">Getting Started</h3></a>
 
       <p class="card-description">Explore and find the answer here.</p>
     </div>
 
     <a href="{{ site.baseurl }}/publish/" class="card-cta link-arrow-right" tabindex="0">
-      Read more
       <span class="usa-sr-only">Frequently Asked Questions</span>
 
     </a>
