@@ -9,14 +9,16 @@ subnav_items:
     permalink: /publish/#introduction
   - text: Meet the City of Open Data Liaisons
     permalink: /publish/#meet-the-city-of-open-data-liaisons
-  - text: What Do Open Data Liaisons and Publishers Do?
-    permalink: /publish/#what-do-open-data-liaisons-and-publishers-do?
-  - text: How to Publish and Import Data?
-    permalink: /publish/#how-to-import-and-publish-data?
-  - text: How to Structure your Metadata
+  - text: What Open Data Liaisons and Publishers Do
+    permalink: /publish/#what-open-data-liaisons-and-publishers-do
+  - text: How to Publish and Import Data
+    permalink: /publish/#how-to-import-and-publish-data
+  - text: How to Identify Datasets for Publication
     permalink: /publish/#how-to-structure-your-metadata
-  - text: How to Structure
-    permalink: /publish/#how-can-i-publish-data?
+  - text: How to Publish Data Manually
+    permalink: /publish/#how-can-i-publish-data
+  - text: How to Structure your Metadata
+    permalink: /publish/#how-can-i-publish-data
 
 ---
 
@@ -27,7 +29,7 @@ Open Data Liaisons and Publishers implement their department’s Open Data plans
 ## Meet the City of Austin Open Data Liaisons & Publisher
 The Open Data Liaison and Publisher may be a data owner, implementer or coordinator of departmental data and data-related resources. The Open Data Liaison and Publisher will be the single point of contact between the department and the Open Data Initiative team.
 
-## What Do Open Data Liaisons Do?
+## What Open Data Liaisons Do
 - Coordinate and manage departmental Open Data efforts in relation to the City of Austin’s ODI.
 - Identify new data sets to be published on the COA Open Data Portal.
 - Facilitate proper assessment, review and approvals for data to be published and ensure it complies with legal, ethical and security concerns.
