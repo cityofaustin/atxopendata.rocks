@@ -2610,7 +2610,7 @@ header[role=banner] nav[role=navigation] {
   display: block;
   float: left; }
   .site-logo img {
-    width: 30rem; }
+    /* width: 30rem; */ }
 
 .menu-btn {
   background-color: transparent;
