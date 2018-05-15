@@ -55,7 +55,7 @@ Maybe you’ve filtered a dataset, and instead of saving it as a view, you’d l
 Click the <b>Export</b> tab, next to the Visualize tab.
 This will pull up the Export pane which offers a number of formats for exporting.
 
-<img src="{{ site.baseurl }}/images/gettingstarted/options.PNG" class="export">
+<img src="{{ site.baseurl }}/images/gettingstarted/options.png">
 
 You can download the files as a:
  - CSV
