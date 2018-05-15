@@ -7,29 +7,38 @@ lead: begin your open data journey here using this starter kit.
 subnav_items:
   - text: Introduction
     permalink: /publish/#introduction
-  - text: Meet the City of Open Data Liaisons
-    permalink: /publish/#meet-the-city-of-open-data-liaisons
+  - text: Meet the City of Open Data Liaisons and Publishers
+    permalink: /publish/#meet-the-city-of-open-data-liaisons-and-publishers
   - text: What Open Data Liaisons and Publishers Do
     permalink: /publish/#what-open-data-liaisons-and-publishers-do
-  - text: How to Publish and Import Data
-    permalink: /publish/#how-to-import-and-publish-data
+  - text: How to Publish
+    permalink: /publish/#how-to-publish
   - text: How to Identify Datasets for Publication
-    permalink: /publish/#how-to-structure-your-metadata
+    permalink: /publish/#how-to-identify-datasets-for-publication
+  - text: Methods of Publishing Your Dataset
+    permalink: /publish/#methods-of-publishing-your-dataset
   - text: How to Publish Data Manually
-    permalink: /publish/#how-can-i-publish-data
-  - text: How to Structure your Metadata
-    permalink: /publish/#how-can-i-publish-data
-
+    permalink: /publish/#how-to-publish-data-manually
+  - text: How to Create and Edit your Dataset
+    permalink: /publish/#how-to-create-and-edit-your-dataset
+  - text: Publish your Dataset
+    permalink: /publish/#publish-your-dataset
+  - text: How to Create Filter Views within your Dataset
+    permalink: /publish/#how-to-create-filter-views-within-your-dataset
+  - text: Filter through Records
+    permalink: /publish/#filer-through-records
+  - text: Filter Using a Value
+    permalink: /publish/#filer-using-a-value
 ---
 
 ## Introduction
 This section is for City of Austin Data Liaisons and Publishers.
 Open Data Liaisons and Publishers implement their department’s Open Data plans in relation to the City of Austin’s Open Data Initiative (ODI) and City Manager’s “open by default” directive.
 
-## Meet the City of Austin Open Data Liaisons & Publisher
+## Meet the City of Open Data Liaisons and Publishers
 The Open Data Liaison and Publisher may be a data owner, implementer or coordinator of departmental data and data-related resources. The Open Data Liaison and Publisher will be the single point of contact between the department and the Open Data Initiative team.
 
-## What Open Data Liaisons Do
+## What Open Data Liaisons and Publishers Do
 - Coordinate and manage departmental Open Data efforts in relation to the City of Austin’s ODI.
 - Identify new data sets to be published on the COA Open Data Portal.
 - Facilitate proper assessment, review and approvals for data to be published and ensure it complies with legal, ethical and security concerns.
@@ -38,13 +47,12 @@ The Open Data Liaison and Publisher may be a data owner, implementer or coordina
 - Participate in City of Austin Open Data outreach, workshops, hackathons, projects and partnerships.
 
 
-## How to Publish Data on Austin's Open Data Portal
-You need to be a city employee with data ready to be used. If you haven't created an account <a href="/atxopendata.rocks/start/">please click here</a> and follow these instructions on how to create an account. Once you have an account, contact the Open Data team and you will be assigned the appropriate permissions.
+## How to Publish
+You need to be a city employee with data ready to be used. If you haven't created an account <a href="/atxopendata.rocks/start/">please click here</a> and follow these instructions on how to create an account. Once you have an account, go to the contact page and reach out to the Open Data team and you will be assigned the appropriate permissions.
 
-Before publishing, you will need to identify datesets for publication.
+Before publishing, you will need to identify datasets for publication.
 
 ## How to Identify Datasets for Publication
-
 - Consult Public Information Requests: If information is frequently requested by citizens or other agencies, publishing this information on the data portal may be very valuable to the public and decrease the amount of time spent on PIRs. Review reports your department provides to federal or state agencies. These reports (and their underlying data sources) can help identify data which can also be provided to the public.
 
 - Explore what other cities are doing: A number of other cities in the U.S. and around the world are releasing open data to external users. What are people in other cities looking for? What kinds of data are other governments making available? Chances are that if there is a high demand for certain kinds of data in other cities, there may be a high demand for it in Austin as well.
@@ -55,6 +63,7 @@ Before publishing, you will need to identify datesets for publication.
 
 - Ask the public for ideas: If you want to find out what data people are looking for, one of the best ways to find out is simply to ask. Check to see on social media/other outlets to see if there are comments or tweets about data you might be able to make available. You can also check on the portal on our forum "Data suggestions"
 
+## Methods of Publishing Your Dataset
 There are three methods for publishing datasets to data.austintexas.gov:
 
 - Manual: This method is generally used with datasets that are fairly uncomplicated and not updated frequently (refresh rate >4 times/year).
@@ -65,7 +74,7 @@ There are three methods for publishing datasets to data.austintexas.gov:
 
 Using one of these publication methods, the next steps are to upload the data to Austin's Portal. Please note a Data Liaison/Publisher along with his or her department is responsible for reviewing the datasets for its security, quality, and metadata.
 
-### How to Publish Data Manually
+## How to Publish Data Manually
 
 To begin publishing manually will need to upload and import your data. Please note, this section is for City employees who are Data Liaisons and Publishers for thier departement.  
 
@@ -126,13 +135,8 @@ Scroll down to the bottom of the page, click the “Next” button to import you
 
 <div class="pagebreak"></div>
 
-## How to Structure your Metadata
 
-Fill in the appropriate “About” information using the <a class="link-color" href="{{ site.baseurl }}/metadata/"> metadata publishing guidline.</a>  This would be the metadata for this dataset. Click “Next” and the dataset will start the creation process.
-
-To learn more about Metadata standards please review the <a href="{{ site.baseurl }}/metadata/">Metadata Guideline</a></p>
-Metadata
-
+Fill in the appropriate “About” information using the metadata guideline outlined for you. Please contact us to walk you through this.
 
 ## How to Create and Edit your Dataset
 
@@ -173,7 +177,7 @@ Now that all changes have been completed, let’s publish it by hitting the “P
 Now that you have learned how to load a dataset, When you are ready,
     continue to the next lesson to learn
 
-## How to Create Filter Views within your Dataset.
+## How to Create Filter Views within your Dataset
 
 Let's create 2 filtered views to show a subset of the new dataset that we've just uploaded. </p>
 
@@ -212,34 +216,23 @@ Congratulations! You've just created and saved your first view!
 
 Note how many records this new view contains.
 
-## Filter Using A Value
 
-Let's return to your original dataset by using the shortcut link within your view page.
 
-Using the same steps from above, create a view that shows all records for Council District 9. Note how many records this new view contains, and how it compares to the previous last step.
 
-<img src="{{ site.baseurl }}/images/starterkit/30.png" class="full">
-
-<img src="{{ site.baseurl }}/images/starterkit/31.png" class="shrink">
-
-At this point you have learned to:
-- Load a Dataset
-- Create Filter Views
-
-In this tutorial, you will have an opportuinity to:
-- Update your dataset with a new file that contains newly added records
-- Create a working copy
-- Use the Append and Replace Wizard
-- Replace and update a dataset
 
 ### Support
 At any point during this tutorial you need help please contact the Open Data Initiative team.
 
 
-## How To Update A Dataset </b></h1>
+## Tutorial
+In this tutorial, you will have an opportunity to:
+- Update your dataset with a new file that contains newly added records
+- Create a working copy
+- Use the Append and Replace Wizard
+- Replace and update a dataset
 
 ### Step 1
-Open your original dataset and click on the "Edit" button from the menu
+Open a dataset that you uploaded on the portal and click on the "Edit" button from the menu
 
 <img src="{{ site.baseurl }}/images/starterkit/32.png" class="shrink">
 
@@ -340,20 +333,3 @@ Select the “District 9” view and compare the number of records we observed f
 <img src="{{ site.baseurl }}/images/starterkit/47.png" class="full">
 
 Congratulations! You have successfully updated a dataset.
-
-## Adding Co​​ntext​
-
-Narratives are a great way to add context to data! This context could be added through a detailed description in the metadata or by creating a separate document. Socrata has a feature called ‘Socrata Narrative,’ where a story about your data can be added and published on the Austin Open Data Portal along with the dataset.
-
-
-As data visualization expert Stephen Few said, “Numbers have an important story to tell. They rely on you to give them a clear and convincing voice.” A narrative accompanying data helps explain to the audience what is happening in the data and what points to focus on.
-
-## Data Standardization
-
-Data standardization refers to the process of transforming data into a common format that allows for consistency, reliability, and better analyses.
-
-​Socr​ata recommends the adoption of open data standard in three areas:
-
-Data Catalog Interoperability: Enable universal federation of different open data catalogs using a standard catalog schema, based on the W3C Data Catalog Vocabulary (DCAT)
-Data Portability Based on Standard Data Formats: Standardize outputs including JSON, XML, and CSV, as well as RDF and other Linked Data standards. The goal is to move towards standard schemas that developers can use for popular datasets, based on real-world examples and collaboration between data publishers
-Application Portability Based on Open Data API Standards: Standardize the application programming interfaces (APIs) used to programmatically access open data, using established paradigms and protocols such as REST, HTTP, and Structured Query Language (SQL)
