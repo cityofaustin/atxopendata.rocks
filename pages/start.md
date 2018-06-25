@@ -15,7 +15,7 @@ subnav_items:
   - text: How to Contact a Dataset Owner
     permalink: /start/#how-to-contact-a-dataset-owner
   - text: Video Tutorials
-    permalink: /start/#video-guides
+    permalink: /start/#video-tutorials
   - text: Socrata Knowledge Base
     permalink: /start/#socrata-knowledge-base
 ---
