@@ -5,8 +5,6 @@ layout: default-intro
 image:
 lead: begin your open data journey here using this starter kit.
 subnav_items:
-  - text: Introduction
-    permalink: /publish/#introduction
   - text: Meet the City of Open Data Liaisons and Publishers
     permalink: /publish/#meet-the-city-of-open-data-liaisons-and-publishers
   - text: What Open Data Liaisons and Publishers Do
@@ -31,7 +29,6 @@ subnav_items:
     permalink: /publish/#filer-using-a-value
 ---
 
-## Introduction
 This section is for City of Austin Data Liaisons and Publishers.
 Open Data Liaisons and Publishers implement their department’s Open Data plans in relation to the City of Austin’s Open Data Initiative (ODI) and City Manager’s “open by default” directive.
 

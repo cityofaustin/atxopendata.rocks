@@ -17,7 +17,7 @@ subnav_items:
 
 ---
 
-### “We operate best, when we are operating in the open. We make better decisions and we build trust that way. And trust is certainly the foundation that allows us to work on behalf of the public. Without that trust we lose legitimacy.” – Spencer Cronk, Austin City Manager, April 2018
+> **“We operate best, when we are operating in the open. We make better decisions and we build trust that way. And trust is certainly the foundation that allows us to work on behalf of the public. Without that trust we lose legitimacy.” – Spencer Cronk, Austin City Manager, April 2018**
 
 
 ## The Open Data Initiative History
