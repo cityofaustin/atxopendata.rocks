@@ -100,8 +100,8 @@ You can can use the following features:
 <img src="{{ site.baseurl }}/images/gettingstarted/about.png" class="export">
 
 ## Video Tutorials
- Want to continue learning about data? Learn more by checking out the following links to videos, blogs, and workflow examples.
-For additional resources, go here: <a href="https://data.austintexas.gov/videos">view videos</a>
+To more with data such as learn how to aggregate data, create maps, tell a story through data by creating a 
+vizulazaitons, etc. learn more by following this link: <a href="https://data.austintexas.gov/videos">view videos</a>
 
 ## Socrata Knowledge Base
 Socrata is the software company that drives the data portal.
