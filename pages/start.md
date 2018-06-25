@@ -101,7 +101,7 @@ You can can use the following features:
 
 ## Video Tutorials
 To more with data such as learn how to aggregate data, create maps, tell a story through data by creating a 
-vizulazaitons, etc. learn more by following this link: <a href="https://data.austintexas.gov/videos">view videos</a>
+chart, etc. learn more by following this link: <a href="https://data.austintexas.gov/videos">view videos</a>
 
 ## Socrata Knowledge Base
 Socrata is the software company that drives the data portal.
