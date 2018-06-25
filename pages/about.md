@@ -21,7 +21,7 @@ subnav_items:
 
 
 ## The Open Data Initiative History
-On December 11th, 2011, the Austin City Council passed Resolution No. 20111208-074, commonly known as the Open Data Ordinance. It mandated that the following issues be addressed by the City of Austin:
+On December 11th, 2011, the Austin City Council passed  <a href="https://www.austintexas.gov/sites/default/files/files/Law/Council_Portal_Page/Resolution_Open_Government_Directive_2011.pdf">Resolution No. 20111208-074 </a>, commonly known as the Open Data Ordinance. It mandated that the following issues be addressed by the City of Austin:
 - Open Data rules and standards
 - Open Source Platforms guidelines
 - Mobile applications strategies to promote citizen engagement and innovation
@@ -39,7 +39,7 @@ Two years later, on August 26, 2013, an Open Government Direct was published, re
 - A mechanism for public feedback and licensing among other objectives
 - It also required the City to create an Open Government Plan with 120 days to outline how each department would develop transparency, public Participation, and collaboration
 
-The plan laid out guidelines for the process of utilizing accessible and emerged technology and tools; along with guidelines and a timeline for creating an enabling policy framework for Open Government.
+The plan laid out guidelines for the process of utilizing accessible and emerging  technology and tools; along with guidelines and a timeline for creating an enabling policy framework for Open Government.
 
 On April 8, 2015, Marc Ott, the City Manager at the time published another Directive, the City of Austin Open Data Initiative 2.0. The directive set a  timeline for 30 days, 60 days, and 90 days, and ongoing, in “order to change how government works, provide more effective services, drive data-informed decision-making, and promote economic development opportunities, all departments and offices within the City of Austin are required to take the following steps to Participate in the City’s Open Data Initiative 2.0 that will begin with the issuance of this memorandum.”
 

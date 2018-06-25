@@ -2284,7 +2284,7 @@ fieldset {
       position: relative;
       z-index: 1; }
     .usa-sidenav-list a.usa-current {
-      border-left: 4px solid #F2CC8F;
+      border-left: 4px solid #0071bc;
       color: #0071bc;
       font-weight: 700;
       padding-left: 1.4rem; }
@@ -3539,7 +3539,7 @@ footer[role=contentinfo] {
     footer[role=contentinfo] .usa-sidenav-list a {
       padding-top: 1.25rem;
       padding-bottom: 1.25rem;
-      color: #ffffff;
+      color: #046b99;
       font-size: 1.2rem; }
       footer[role=contentinfo] .usa-sidenav-list a:hover {
         background-color: #d6d7d9; }
@@ -3560,7 +3560,7 @@ footer[role=contentinfo] {
     font-weight: 400;
     text-align: left; }
   footer[role=contentinfo] .usa-accordion-content {
-    /* background-color: #f1f1f1; */ }
+    background-color: #f1f1f1; }
     footer[role=contentinfo] .usa-accordion-content li {
       border-top: 1px solid #d6d7d9; }
 
