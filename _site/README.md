@@ -23,5 +23,4 @@ Great! Open an [issue.](https://github.com/cityofaustin/atxopendata.rocks/issues
 
 ## Design & Planning
 ### Sitemap
-[Site Content Inventory & Status](https://docs.google.com/spreadsheets/d/1uVQo-B3YUj9diEjcCLJlYgCL8cpwEfHLePxDXyYgV-A/edit#gid=0)
 ![atxopendata.rock_sitemap](https://github.com/cityofaustin/atxopendata.rocks/blob/master/site-atxopendata.rocks.png?raw=true)

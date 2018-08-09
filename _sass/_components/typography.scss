@@ -21,3 +21,76 @@ a {
     color: $color-medium-hover;
   }
 }
+.testimonial-blockquote {
+  font-size: 1em;
+  width: 100%;
+  margin: 3.5rem auto;
+  font-style: italic;
+  color: #1C304A;
+  padding: 1.2em 30px 1.2em 75px;
+  border-left: 8px solid #046b99;
+  line-height: 1.4;
+  position: relative;
+  background: #f1f1f1; }
+  .testimonial-blockquote ::before {
+    content: '\201C';
+    color: #046b99;
+    font-size: 4em;
+    position: absolute;
+    left: 10px;
+    top: -10px; }
+  .testimonial-blockquote ::after {
+    content: ''; }
+  .testimonial-blockquote span {
+    display: block;
+    color: #046b99;
+    font-style: normal;
+    font-weight: bold;
+    margin-top: 1em; }
+
+.funfact-blockquote {
+  font-size: 1em;
+  width: 100%;
+  margin: 3.5rem auto;
+  font-style: italic;
+  color: #F2CC8F;
+  padding: 1.2em 30px;
+  border-left: 8px solid #046b99;
+  line-height: 1.4;
+  position: relative;
+  background: #f1f1f1; }
+
+.home-testimonial {
+  font-size: 23px;
+  width: 100%;
+  font-style: italic;
+  color: #5b616b;
+  padding: 1.2em 30px 1.2em 75px;
+  line-height: 1.4;
+  position: relative; }
+  .home-testimonial ::before {
+    content: '\201C';
+    color: #5D628C;
+    font-size: 5em;
+    position: absolute;
+    left: 10px;
+    top: -10px; }
+  .home-testimonial ::after {
+    content: ''; }
+  .home-testimonial span {
+    display: block;
+    color: #046b99;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 1.5em; }
+  .home-testimonial span {
+    display: block;
+    color: #5D628C;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 1em; }
+.usa-disclaimer {
+  border-bottom: 1px solid #ffffff;
+  font-size: 1.1rem; }

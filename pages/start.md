@@ -100,12 +100,12 @@ You can can use the following features:
 <img src="{{ site.baseurl }}/images/gettingstarted/about.png" class="export">
 
 ## Video Tutorials
-To more with data such as learn how to aggregate data, create maps, tell a story through data by creating a 
+To more with data such as learn how to aggregate data, create maps, tell a story through data by creating a
 chart, etc. learn more by following this link: <a href="https://data.austintexas.gov/videos">view videos</a>
 
 ## Socrata Knowledge Base
 Socrata is the software company that drives the data portal.
-Please visit <a href="">the Socrata Knowledge Base</a> where you will find video tutorials on how to use various tools on the Open Data portal and how to instructions such as...
+Please visit <a href="https://support.socrata.com/hc/en-us/categories/360000024667-Navigating-the-Site">the Socrata Knowledge Base</a> where you will find video tutorials on how to use various tools on the Open Data portal and how to instructions such as...
 - Visualizing Data
 - Structure Data
 - Filter Data
