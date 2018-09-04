@@ -1,9 +1,8 @@
 ---
 title: Contact
 permalink: /contact/
-layout: atx
+layout: default-intro
 lead:
-
 ---
 
 ## Before submitting a request, please review the links below  

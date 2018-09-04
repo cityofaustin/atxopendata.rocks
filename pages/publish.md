@@ -54,10 +54,10 @@ Before publishing, you will need to identify datasets for publication.
 ## Methods of Publishing Your Dataset
 There are three methods for publishing datasets to data.austintexas.gov:
 
-- Manual: This method is generally used with datasets that are fairly uncomplicated and not updated frequently (refresh rate >4 times/year).
+- Manual : This method is generally used with datasets that are fairly uncomplicated and not updated frequently (refresh rate > 4 times/year).
 
-- Automation: When a dataset is updated more frequently, this method allows for automatic updates to Austin's Open Data Portal. If you need wish to choose this route. Please contact the Austin Open Data Initative team or feel free to explore Socrata’s tool, Datasync​, a tool that can be learned by technical and non-technical data publishers/Liaisons alike.
+- Automation : When a dataset is updated more frequently, this method allows for automatic updates to Austin's Open Data Portal. If you need wish to choose this route. Please contact the Austin Open Data Initiative team or feel free to explore Socrata’s tool, Data sync​, a tool that can be learned by technical and non-technical data publishers/Liaisons alike.
 
-- Programmatic (API to API): If a dataset needs to be updated in real-time, the programmatic method is the best option. However, it requires some technical savvy.​
+- Programmatic (API to API) : If a dataset needs to be updated in real-time, the programmatic method is the best option. However, it requires some technical savvy.​
 
 Using one of these publication methods, the next steps are to upload the data to Austin's Portal. Please note a Data Liaison/Publisher along with his or her department is responsible for reviewing the datasets for its security, quality, and metadata.
