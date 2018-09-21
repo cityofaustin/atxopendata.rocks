@@ -22,5 +22,5 @@ We use Github Pages to host.
 Great! Open an [issue.](https://github.com/cityofaustin/atxopendata.rocks/issues)
 
 ## Design & Planning
-### Sitemap
-![atxopendata.rock_sitemap](https://github.com/cityofaustin/atxopendata.rocks/blob/master/site-atxopendata.rocks.png?raw=true)
+
+[Learn More](https://trello.com/b/mMmQB64P/building-atxopendatarocks)
