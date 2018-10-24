@@ -48,5 +48,3 @@ You may request public records online by clicking <a href="http://austintexas.go
 <p>Join us on our <a href="https://opendata.bloomfire.com"> knowledge base and collaboration platform</a> designed to engage data users in open, transparent knowledge sharing.</p>
 
 <br>
-
-<script src="https://cityofaustin.seamlessdocs.com/s/b4fdc9ea151b57cdc1c245c24583a2ca/embed/iframe"></script>
