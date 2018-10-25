@@ -7,7 +7,7 @@ image: /images/workshops.jpg
 ---
 <aside class="usa-width-one-third">
   <ul>
-<a class="twitter-timeline" data-lang="en" data-width="600" data-height="1000" data-link-color="#5D628C" href="https://twitter.com/atxgo?ref_src=twsrc%5Etfw">Tweets by atxgo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="400" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/atxgo?ref_src=twsrc%5Etfw">Tweets by atxgo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
   </ul>
 </aside>
