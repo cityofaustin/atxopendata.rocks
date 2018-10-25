@@ -1,23 +1,96 @@
 ---
-title: The City of Austin
+title: The City of Austin Open Data Initiative
 permalink: /about/
 layout: default-intro
 image:
 lead: is committed to an open and transparent government
 redirect_from:
 subnav_items:
-  - text: The Open Data Initiative History
-    permalink: /about/#the-open-data-initiative-history
-  - text: Policy Documents
-    permalink: /about/#policy-documents
+  - text: About the Open Data Initiative
+    permalink: /about/#the-open-data-initiative
+  - text: The Open Data Team
+    permalink: /about/#the-open-data-team
+  - text: What the Open Data Team Does
+    permalink: /about/#what-the-open-data-team-does
+  - text: The Open Data Initiative on the News
+    permalink: /about/#the-open-data-initiative-on-the-news
   - text: The Open Data Portal
     permalink: /about/#the-open-data-portal
   - text: Open Data Portal Terms of Use
     permalink: /about/#open-data-portal-terms-of-use
+  - text: The Open Data Initiative History
+    permalink: /about/#the-open-data-initiative-history
+  - text: Policy Documents
+    permalink: /about/#policy-documents
 
 ---
 
-<div class="home-testimonial">We operate best, when we are operating in the open. We make better decisions and we build trust that way. And trust is certainly the foundation that allows us to work on behalf of the public. Without that trust we lose legitimacy.<span>– Spencer Cronk, Austin City Manager, April 2018</span></div>
+## About the Open Data Initiative
+"We operate best, when we are operating in the open. We make better decisions and we build trust that way. And trust is certainly the foundation that allows us to work on behalf of the public. Without that trust we lose legitimacy."
+<br>
+<b>Spencer Cronk, Austin City Manager</b>
+<br>
+<b>April 2018</b>
+
+## The Open Data Team
+- Charles Purma, IT Manager
+- Anne Whitlocke, IT Business Systems Analyst Senior
+- Marbenn Cayetano, IT Business Systems Analyst Senior  
+- Happiness Kisoso, IT Business Systems Analyst
+- Sara Smith, IT Business Systems Analyst Senior
+- Brad McCarty, IT Application Analyst
+- Ted Lehr, Data Architect
+- Wei San Hui, Program Manager
+
+## What the Open Data Team Does
+- Administer the City of Austin's Open Data portal
+- Create guidance/ suggestions on the City's open data
+- Conduct training for open data Liaisons and Publishers
+- Provide consulting to City departments/ publishers and liaisons interested in participating in the Open Data Initiative
+- Advocate for the transparency of City data (public and internally)
+- Represent and participate in events highlighting the usefulness and benefits of open data
+- Work with our community of researchers, businesses and civic organizations to use the data
+
+## The Open Data Initiative on the News
+#### Press and interviews about the initiative and projects
+<a href="http://dailytexanonline.com/2018/09/06/dell-medical-school-city-of-austin-collaborate-to-improve-community-health">Dell Medical School, City of Austin collaborate to improve community health</a>
+<br>
+<b> The Daily Texan </b>
+<br>
+September 6, 2018
+
+----------------------
+
+<a href="https://medium.com/open-austin/open-data-day-with-open-austin-2018-b66d0d58f2ea">Open Data Day with Open Austin 2018
+ </a>
+ <br>
+ <b> Open Austin</b>
+ <br>
+ March 21, 2018
+
+----------------------
+<a href="https://www.smartcitiesworld.net/news/news/austin-signals-commitment-to-open-data-2992?utm_source=Friends+and+Constituents+-+Newsletter+list&utm_campaign=93ca19a31e-EMAIL_CAMPAIGN_2018_01_11_COPY_01&utm_medium=email&utm_term=0_edc26fd940-93ca19a31e-103695249">
+Austin Signals Commitment to Open Data</a>
+<br>
+<b> Smart Cities World</b>
+<br>
+June 6, 2018
+
+----------------------
+
+<a href="https://socrata.com/blog/austin-engages-educates-data-liaisons/">How Austin Engages and Educates Its Data Liaisons
+ </a>
+ <br>
+ <b> Socrata, Inc</b>
+<br>
+ December 19, 2017
+
+## The Open Data Portal
+ The City of Austin’s open data portal provides access to data and information about your city government. We encourage the use of public data to spark innovation, promote public collaboration, increase government transparency, and inform decision making. <a href="https://support.socrata.com/hc/en-us">Socrata</a> is the software company that powers the open data portal.
+
+## Open Data Portal Terms of Use
+ To learn more about City of Austin Open Data Licensing refer to the link below.
+ <a href="http://www.austintexas.gov/coa-open-data-licensing">learn more</a>
 
 
 ## The Open Data Initiative History
@@ -50,10 +123,3 @@ Within 30 days the Initiative called for an Identification on of Open Liaisons f
 - Open Government Resolution by City Council - December 8, 2011
 - City of Austin Open Government Directive - August 26, 2013
 - Austin Government Online Audit - August 2013
-
-## The Open Data Portal
-The City of Austin’s open data portal provides access to data and information about your city government. We encourage the use of public data to spark innovation, promote public collaboration, increase government transparency, and inform decision making. <a href="https://support.socrata.com/hc/en-us">Socrata</a> is the software company that powers the open data portal.
-
-## Open Data Portal Terms of Use
-To learn more about City of Austin Open Data Licensing refer to the link below.
-<a href="http://www.austintexas.gov/coa-open-data-licensing">learn more</a>
