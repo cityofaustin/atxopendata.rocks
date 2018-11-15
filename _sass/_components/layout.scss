@@ -35,7 +35,7 @@
 }
 
 .background-dark {
-  background-color: #5D628C;
+  background-color: $color-background;
   color: $color-white;
 
   h1,
@@ -49,7 +49,7 @@
   }
 
   .section-heading {
-    color: #F2CC8F;
+    color: #FBB766;
     display: inline;
     letter-spacing: 0.5px;
   }
@@ -107,12 +107,12 @@
   }
 }
 
-// boone did this, we should do it the right way eventually
+
 .background-dark .usa-button.usa-button-secondary:hover {
    color: $color-black;
 }
 
-// end of stuff boone did
+
 
 .header_border,
 .single-post {
@@ -265,4 +265,3 @@
   .card-image-svg svg polygon,
   .card-image-svg svg polyline {
     stroke: #046b99; }
-

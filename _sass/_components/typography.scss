@@ -70,7 +70,7 @@ a {
   position: relative; }
   .home-testimonial ::before {
     content: '\201C';
-    color: #5D628C;
+    color: $color-background;
     font-size: 5em;
     position: absolute;
     left: 10px;
@@ -86,7 +86,7 @@ a {
     margin-top: 1.5em; }
   .home-testimonial span {
     display: block;
-    color: #5D628C;
+    color: $color-background;
     font-style: normal;
     font-size: 20px;
     font-weight: bold;

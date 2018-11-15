@@ -9,7 +9,7 @@
 }
 
 .hero-callout {
-  background-color: $color-purple;
+  background-color: $color-background;
   padding: 3rem;
 
   @include media($small-screen) {

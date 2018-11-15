@@ -1508,7 +1508,7 @@ a {
   a:hover, a:active {
     color: #205493; }
   a:visited {
-    color: #4c2c92; }
+    color: #046b99; }
   a:focus {
     box-shadow: 0 0 3px #3e94cf, 0 0 7px #3e94cf;
     outline: 0; }
@@ -2392,7 +2392,7 @@ a {
 
 .home-testimonial ::before {
   content: '\201C';
-  color: #5D628C;
+  color: #115C7A;
   font-size: 5em;
   position: absolute;
   left: 10px;
@@ -2411,7 +2411,7 @@ a {
 
 .home-testimonial span {
   display: block;
-  color: #5D628C;
+  color: #115C7A;
   font-style: normal;
   font-size: 20px;
   font-weight: bold;
@@ -2668,7 +2668,7 @@ header[role=banner] ul {
       header[role=banner] ul li a.usa-current {
         color: #000000; }
         header[role=banner] ul li a.usa-current span {
-          border-bottom: 1rem solid #F2CC8F;
+          border-bottom: 1rem solid #FBB766;
           padding-bottom: 1.4rem; }
 @-moz-document url-prefix() {
   header[role=banner] ul li a.usa-current span {
@@ -2735,7 +2735,7 @@ header[role=banner] nav[role=navigation] {
   background-size: cover; }
 
 .hero-callout {
-  background-color: #5D628C;
+  background-color: #115C7A;
   padding: 3rem; }
   @media screen and (min-width: 481px) {
     .hero-callout {
@@ -2749,7 +2749,7 @@ header[role=banner] nav[role=navigation] {
     width: 100%; }
 
 .hero-callout-alt_color {
-  color: #F2CC8F;
+  color: #FBB766;
   display: block; }
 
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
@@ -2919,7 +2919,7 @@ header[role=banner] nav[role=navigation] {
   padding-bottom: 6rem; }
 
 .background-dark {
-  background-color: #5D628C;
+  background-color: #115C7A;
   color: #ffffff; }
   .background-dark h1,
   .background-dark h2,
@@ -2930,15 +2930,15 @@ header[role=banner] nav[role=navigation] {
   .background-dark p {
     color: #ffffff; }
   .background-dark .section-heading {
-    color: #F2CC8F;
+    color: #FBB766;
     display: inline;
     letter-spacing: 0.5px; }
   .background-dark h2 {
     letter-spacing: 0.5px; }
   .background-dark a {
-    color: #F2CC8F; }
+    color: #FBB766; }
     .background-dark a:hover {
-      color: #F2CC8F; }
+      color: #FBB766; }
   .background-dark .usa-button,
   .background-dark .usa-button-primary,
   .background-dark .usa-button:visited,
@@ -2956,7 +2956,7 @@ header[role=banner] nav[role=navigation] {
     .background-dark [type="button"]:hover,
     .background-dark [type="submit"]:hover,
     .background-dark [type="reset"]:hover {
-      background-color: #F2CC8F; }
+      background-color: #FBB766; }
   .background-dark .usa-search.usa-search-small [type="submit"] {
     background-image: url("../img/global/search-dark.png");
     background-image: url("../img/global/search-dark.svg"); }
