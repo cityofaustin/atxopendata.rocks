@@ -100,7 +100,7 @@ On December 11th, 2011, the Austin City Council passed  <a href="https://www.aus
 - Mobile applications strategies to promote citizen engagement and innovation
 - Social media standards.
 
-It put forth four recommend on:
+It put forth four recommends on:
 1. Develop an Open Government Directive with administrative guidelines on steps to achieve transparency, efficiency, and collaboration
 2. Identify funding requirements and an implementation  timeline for the various elements of the recommends ons
 3. Participate in a national dialogue on standards for Open Data Initiatives at the municipal level
@@ -116,7 +116,7 @@ The plan laid out guidelines for the process of utilizing accessible and emergin
 
 On April 8, 2015, Marc Ott, the City Manager at the time published another Directive, the City of Austin Open Data Initiative 2.0. The directive set a  timeline for 30 days, 60 days, and 90 days, and ongoing, in “order to change how government works, provide more effective services, drive data-informed decision-making, and promote economic development opportunities, all departments and offices within the City of Austin are required to take the following steps to Participate in the City’s Open Data Initiative 2.0 that will begin with the issuance of this memorandum.”
 
-Within 30 days the Initiative called for an Identification on of Open Liaisons for each department and an inventory of known data managed and maintained by each department. Within 60 days the directive called for liaisons and department directors to participate in workshops, public outreach to deter- mine interest areas and departmental plans and schedules for publishing to the Open Data Portal. With- in 90 days the directive set a goal to publish at least three datasets per department, create plans for each Department over the next 12 months, and create a scorecard system to determine Participation.
+Within 30 days the Initiative called for an Identification on of Open Liaisons for each department and an inventory of known data managed and maintained by each department. Within 60 days the directive called for liaisons and department directors to participate in workshops, public outreach to deter- mine interest areas and departmental plans and schedules for publishing to the Open Data Portal. With- in 90 days the directive set a goal to publish at least three datasets per department, create plans for each Department over the next 12 months, and create a scorecard system to determine participation.
 
 
 ## Policy Documents
