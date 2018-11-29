@@ -2929,6 +2929,10 @@ header[role=banner] nav[role=navigation] {
   .background-dark h6,
   .background-dark p {
     color: #ffffff; }
+  .background-dark .column {
+    float: left;
+    width: 33.33%;
+    padding: 4px; }
   .background-dark .section-heading {
     color: #FBB766;
     display: inline;
@@ -3253,7 +3257,7 @@ header[role=banner] nav[role=navigation] {
     display: none; } }
 .nav-accordion {
   background-color: #ffffff;
-  border-bottom: 1px solid #d6d7d9; }
+  border-top: 30px solid #d6d7d9; }
 
 .nav-accordion .usa-sidenav-list ul {
   list-style-type: none;
