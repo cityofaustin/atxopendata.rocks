@@ -57,7 +57,7 @@ lead: applications, maps, and visualizations created by the community built usin
         <p class="card-tag">Maps </p>
 
 
-        <a href="" tabindex="-1" class="card-link-tagline"><h3 class="h4">Austin Green Map</h3></a>
+        <a href="https://greenmap.open-austin.org" tabindex="-1" class="card-link-tagline"><h3 class="h4">Austin Green Map</h3></a>
 
       <p class="card-description"> Map of Austin's parks: users can search parks with BBQ Pits, restrooms, tennis courts using Austin Parks data.</p>
 
