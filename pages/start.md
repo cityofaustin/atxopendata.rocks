@@ -95,8 +95,7 @@ You can can use the following features:
 - You also contact a dataset owner through the about feature, see photo below:
 <img src="{{ site.baseurl }}/images/gettingstarted/about.png" class="export">
 
-## Learn How to Comment
-<p><a href="https://data.austintexas.gov/videos?wvideo=da5532febd#comment"><img src="https://embedwistia-a.akamaihd.net/deliveries/cdb9a5eea510ef25a21d7124c5ca417e574d0a65.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=274066e0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://data.austintexas.gov/videos?wvideo=da5532febd#comment">Video Guides | Open Data | City of Austin Texas</a></p>
+
 ## Socrata Knowledge Base
 Socrata is the software company that drives the data portal.
 Please visit [the Socrata Knowledge Base](https://support.socrata.com/hc/en-us/categories/360000024667-Navigating-the-Site) where you will find video tutorials on how to use various tools on the Open Data portal and how to instructions such as...
