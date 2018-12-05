@@ -8,8 +8,6 @@ subnav_items:
     permalink: /start/#video-guides
   - text: Creating an Account
     permalink: /start/#creating-an-account
-  - text: Learn about Dataset
-    permalink: /start/#learn-about-dataset
   - text:  What is a Dataset
     permalink: /start/#what-is-a-dataset
   - text: How to Download and Export Data
