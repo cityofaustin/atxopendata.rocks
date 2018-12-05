@@ -35,7 +35,7 @@ lead: applications, maps, and visualizations created by City staff centered on t
         <p class="card-tag">Austin Watershed Department</p>
 
 
-        <a href="" tabindex="-1" class="card-link-tagline"><h3 class="h4">ATX Floods</h3></a>
+        <a href="https://www.atxfloods.com/closures" tabindex="-1" class="card-link-tagline"><h3 class="h4">ATX Floods</h3></a>
 
       <p class="card-description"> Using open data, ATXfloods is an  application which informs you about low water crossings across Central Texas during flooding events.</p>
     </div>
@@ -51,7 +51,7 @@ lead: applications, maps, and visualizations created by City staff centered on t
         <p class="card-tag">Transportation Department</p>
 
 
-        <a href="" tabindex="-1" class="card-link-tagline"><h3 class="h4"> Transportation Dashboard </h3></a>
+        <a href="http://transportation.austintexas.io" tabindex="-1" class="card-link-tagline"><h3 class="h4"> Transportation Dashboard </h3></a>
 
       <p class="card-description"> View the real-time open data about signal operations accessible to <br> everyone.</p>
     </div>
