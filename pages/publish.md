@@ -33,8 +33,8 @@ In order to publish data, you need to be a city employee with data ready to be u
 6. Follow the <a href="https://support.socrata.com/hc/en-us/articles/115016067067-Using-the-New-Import-Experience"> step-by-step tutorial </a> provided by Socrata going through the stages of how to publish covering the following topics: importing a data file, selecting the data file to upload, reviewing the data scan stage to review the dataset schema and data types prior to performing a complete import, adding metadata such as a description, tags, licensing and attribution and configuring the default privacy settings.
 
 ## Guide to Editing Data
-- Learn how to add  <a href="https://support.socrata.com/hc/en-us/articles/202949878-Editing-Datasets-Adding-a-new-column>new column</a> to a dataset and change the order of columns.
-- Learn how to <a href="https://support.socrata.com/hc/en-us/articles/202949958-Editing-datasets-using-a-working-copy>edit datasets using a working copy,</a> the unpublished dataset set aside for you and your collaborators to make edits on.
+- Learn how to add [new column](https://support.socrata.com/hc/en-us/articles/202949878-Editing-Datasets-Adding-a-new-column) to a dataset and change the order of columns.
+- Learn how to [edit datasets using a working copy,](https://support.socrata.com/hc/en-us/articles/202949878-Editing-Datasets-Adding-a-new-column)the unpublished dataset set aside for you and your collaborators to make edits on.
 
 ## What Open Data Liaisons and Publishers Do
 - Coordinate and manage departmental Open Data efforts in relation to the City of Austin’s ODI.
