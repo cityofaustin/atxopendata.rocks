@@ -7,6 +7,9 @@ tagline:          ''
 description:      ''
 url:              atxopendata.rocks
 
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
+
 author:
   name:           ''
   url:            ''
