@@ -1,7 +1,7 @@
 ---
 title: The City of Austin Open Data Initiative
 permalink: /about/
-layout: default-intro
+layout: atx
 image:
 lead: is committed to an open and transparent government
 redirect_from:

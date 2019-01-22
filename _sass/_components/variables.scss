@@ -27,18 +27,26 @@ $color-inverse:	     #ffffff;
 
 $color-bright-hover: #00A7CE;
 $color-medium-hover: #00547A;
-
+$color-gray-divider:  #bbbbbb;
 $color-gray-lightest: #f1f1f1; // Adding bc used in our $border-light in this file.
 
 // Spacing
+$spacer-margins:     0.5rem;
 $section-margins:    6rem;
 $nav-width-extra:    88px; // width needed to add so nav doesn't break on medium-screen size
 $text-max-width:     60.6rem;
+$paragraph-margins:  1.5rem;
 $paragraph-margins-thick: 0.75em;
 
 // Miscellaneous
 $border-accent:      1rem solid $color-bright;
 $border-light:       1px solid $color-gray-lightest;
+$border-accent-height: 1rem;
+$border-accent:        $border-accent-height solid $color-bright;
+$border-accent-medium: $border-accent-height solid $color-medium;
+$border-light:         1px solid $color-gray-lightest;
+$border-gray:          1px solid $color-gray-divider;
+$border-thick:         4px solid $color-gray-lightest;
 
 // Grid breakpoints
 $tablet-screen: 768px;

@@ -26,7 +26,7 @@
 
       {% assign is_matching = page.url | matches_url: item.permalink %}
 
-      <a class="subnav-anchor" href="{{ item_link }}" {% if is_matching %}class="usa-current"{% endif %}>{{ item.text }}</a>
+      <a class="subnav-anchor subnav_items" href="{{ item_link }}" {% if is_matching %}class="usa-current"{% endif %}>{{ item.text }}</a>
     </li>
   {% endfor %}
   </ul>

@@ -76,11 +76,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/open-data-community/</loc>
-    
-  </url>
-  
-  <url>
     <loc>http://localhost:4000/metadata/</loc>
     
   </url>

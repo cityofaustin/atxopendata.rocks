@@ -22,11 +22,11 @@ header[role=banner] {
         text-decoration: none;
 
         &:hover {
-          color: $color-black;
+          color: $color-medium;
         }
 
         &.usa-current {
-          color: $color-black;
+          color: $color-medium;
 
           span {
             border-bottom: 1rem solid $color-yellow;
