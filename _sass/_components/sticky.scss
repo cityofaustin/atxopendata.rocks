@@ -181,16 +181,16 @@
 
 .sticky-subnav ul {
   background: #ffffff; }
-  .sticky-subnav ul[aria-hidden="true"] {
+.sticky-subnav ul[aria-hidden="true"] {
     display: none; }
 @media screen and (min-width: 600px) {
-  .sticky-subnav ul[aria-hidden="true"] {
+.sticky-subnav ul[aria-hidden="true"] {
     display: inline-block; }
-  .sticky-subnav button {
+.sticky-subnav button {
     background: #ffffff;
     border-bottom: 1px solid #d6d7d9; }
-    .sticky-subnav button[aria-expanded] {
+.sticky-subnav button[aria-expanded] {
       background: #ffffff; }
-    .sticky-subnav button:hover, .sticky-subnav button:active, .sticky-subnav button:focus {
+.sticky-subnav button:hover, .sticky-subnav button:active, .sticky-subnav button:focus {
       background: #ffffff;
         cursor: default; } }
