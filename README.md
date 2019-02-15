@@ -23,4 +23,4 @@ Great! Open an [issue.](https://github.com/cityofaustin/atxopendata.rocks/issues
 
 ## Design & Planning
 
-[Learn More](https://trello.com/b/mMmQB64P/building-atxopendatarocks)
+[Learn More](https://github.com/cityofaustin/atxopendata.rocks/projects/1)
