@@ -12,6 +12,15 @@
 
 <!-- Title and meta tags
 ================================================== -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131553214-1">
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-131553214-1');
+</script>
+
 {% if page.title %}
   <title>{{ site.title }} | {{ page.title }}</title>
   <meta property="og:title" content="{{ site.title | xml_escape }} | {{ page.title | xml_escape }}" />
