@@ -36,7 +36,7 @@ subnav_items:
 - Charles Purma, IT Manager
 - Anne Whitlocke, IT Business Systems Analyst Senior
 - Marbenn Cayetano, IT Business Systems Analyst Senior  
-- Happiness Kisoso, IT Business Systems Analyst
+- Happiness Kisoso, IT Business Systems Analyst Senior
 - Sara Smith, IT Business Systems Analyst Senior
 - Brad McCarty, IT Application Analyst
 - Ted Lehr, Data Architect

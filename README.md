@@ -13,6 +13,8 @@ Run each of the following steps to get the site up and running.
 
 You should be able to see the site at: http://127.0.0.1:4000/site/
 
+OSX 10.11 (Mojave) users might have issues with the standard installation. Please review the following link to help with installation: https://github.com/jekyll/jekyll/issues/3984
+
 ## Deployment
 
 We use Github Pages to host.
