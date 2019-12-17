@@ -35,12 +35,12 @@ subnav_items:
 ## The Open Data Team
 - Charles Purma, IT Manager
 - Anne Whitlocke, IT Business Systems Analyst Senior
-- Marbenn Cayetano, IT Business Systems Analyst Senior  
+- Brad McCarty, IT Business Systems Analyst Senior
 - Happiness Kisoso, IT Business Systems Analyst Senior
-- Sara Smith, IT Business Systems Analyst Senior
-- Brad McCarty, IT Application Analyst
+- Marbenn Cayetano, IT Business Systems Analyst Senior
+- Sara Smith, IT Business Systems Analyst Senior 
 - Ted Lehr, Data Architect
-- Wei San Hui, Program Manager
+- Wei San Hui, Project Manager
 
 ## What the Open Data Team Does
 - Administer the City of Austin's Open Data portal
