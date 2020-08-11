@@ -26,10 +26,15 @@ Open Data Liaisons and Publishers implement their department’s Open Data plans
 ## Guide to Publishing Data
 In order to publish data, you need to be a city employee with data ready to be used. Please follow the instructions  to learn more, if you need assistance anytime during this guide please contact the open data team:
 1. Before publishing, you will need to <a href="/publish/#how-to-identify-datasets-for-publication"> identify datasets for publication.</a>
+
 2. Learn about the <a href="/publish/#meet-the-city-of-open-data-liaisons-and-publishers">roles and responsibilities</a> as a Open Data Publisher/Liaisons and who are the other <a href="//publish/#how-to-identify-datasets-for-publication">Open Data Publisher/Liaisons in the City</a>.
-3. If you haven't created an account <a href="https://data.austintexas.gov">please click here</a> and follow these instructions on how to create an account.
+
+3. If you haven't created an account <a href="https://data.austintexas.gov/signup">please click here</a> and follow these instructions on how to create an account.
+
 4. Once you have an account, go to the contact page and reach out to the Open Data team and you will be assigned the appropriate permissions.
+
 5. Identify the different <a href="/publish/#methods-of-publishing-your-dataset">methods of publishing data</a>
+
 6. Follow the <a href="https://support.socrata.com/hc/en-us/articles/115016067067-Using-the-New-Import-Experience"> step-by-step tutorial </a> provided by Socrata going through the stages of how to publish covering the following topics: importing a data file, selecting the data file to upload, reviewing the data scan stage to review the dataset schema and data types prior to performing a complete import, adding metadata such as a description, tags, licensing and attribution and configuring the default privacy settings.
 
 ## Guide to Editing Data
