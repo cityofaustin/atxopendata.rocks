@@ -1,38 +1,38 @@
 ---
-title: The City of Austin Open Data Initiative
+title: The City of Austin open data initiative
 permalink: /about/
 layout: atx
 image:
 lead: is committed to an open and transparent government
 redirect_from:
 subnav_items:
-  - text: About the Open Data Initiative
+  - text: About the open data initiative
     permalink: /about/#the-open-data-initiative
-  - text: The Open Data Team
+  - text: The open data team
     permalink: /about/#the-open-data-team
-  - text: What the Open Data Team Does
+  - text: What the open data team does
     permalink: /about/#what-the-open-data-team-does
-  - text: The Open Data Initiative on the News
+  - text: The open data initiative on the news
     permalink: /about/#the-open-data-initiative-on-the-news
-  - text: The Open Data Portal
+  - text: The open data portal
     permalink: /about/#the-open-data-portal
-  - text: Open Data Portal Terms of Use
+  - text: Open data portal terms of use
     permalink: /about/#open-data-portal-terms-of-use
-  - text: The Open Data Initiative History
+  - text: The open data initiative history
     permalink: /about/#the-open-data-initiative-history
-  - text: Policy Documents
+  - text: Policy documents
     permalink: /about/#policy-documents
 
 ---
 
-## About the Open Data Initiative
+## About the open data initiative
 "We operate best, when we are operating in the open. We make better decisions and we build trust that way. And trust is certainly the foundation that allows us to work on behalf of the public. Without that trust we lose legitimacy."
 <br>
 <b>Spencer Cronk, Austin City Manager</b>
 <br>
 <b>April 2018</b>
 
-## The Open Data Team
+## The open data team
 - Charles Purma, IT Manager
 - Anne Whitlocke, IT Business Systems Analyst Senior
 - Brad McCarty, IT Business Systems Analyst Senior
@@ -42,7 +42,7 @@ subnav_items:
 - Ted Lehr, Data Architect
 - Wei San Hui, Project Manager
 
-## What the Open Data Team Does
+## What the open data team does
 - Administer the City of Austin's Open Data portal
 - Create guidance/ suggestions on the City's open data
 - Conduct training for open data Liaisons and Publishers
@@ -51,7 +51,7 @@ subnav_items:
 - Represent and participate in events highlighting the usefulness and benefits of open data
 - Work with our community of researchers, businesses and civic organizations to use the data
 
-## The Open Data Initiative on the News
+## The open data initiative on the news
 #### Press and interviews about the initiative and projects
 <a href="http://dailytexanonline.com/2018/09/06/dell-medical-school-city-of-austin-collaborate-to-improve-community-health">Dell Medical School, City of Austin collaborate to improve community health</a>
 <br>
@@ -85,15 +85,15 @@ June 6, 2018
 <br>
  December 19, 2017
 
-## The Open Data Portal
+## The open data portal
  The City of Austin’s open data portal provides access to data and information about your city government. We encourage the use of public data to spark innovation, promote public collaboration, increase government transparency, and inform decision making. <a href="https://support.socrata.com/hc/en-us">Socrata</a> is the software company that powers the open data portal.
 
-## Open Data Portal Terms of Use
+## Open data portal terms of use
  To learn more about City of Austin Open Data Licensing refer to the link below.
  <a href="http://www.austintexas.gov/coa-open-data-licensing">learn more</a>
 
 
-## The Open Data Initiative History
+## The open data initiative history
 On December 11th, 2011, the Austin City Council passed  <a href="https://www.austintexas.gov/sites/default/files/files/Law/Council_Portal_Page/Resolution_Open_Government_Directive_2011.pdf">Resolution No. 20111208-074 </a>, commonly known as the Open Data Ordinance. It mandated that the following issues be addressed by the City of Austin:
 - Open Data rules and standards
 - Open Source Platforms guidelines
@@ -119,7 +119,7 @@ On April 8, 2015, Marc Ott, the City Manager at the time published another Direc
 Within 30 days the Initiative called for an Identification on of Open Liaisons for each department and an inventory of known data managed and maintained by each department. Within 60 days the directive called for liaisons and department directors to participate in workshops, public outreach to deter- mine interest areas and departmental plans and schedules for publishing to the Open Data Portal. With- in 90 days the directive set a goal to publish at least three datasets per department, create plans for each Department over the next 12 months, and create a scorecard system to determine participation.
 
 
-## Policy Documents
+## Policy documents
 - Open Government Resolution by City Council - December 8, 2011
 - City of Austin Open Government Directive - August 26, 2013
 - Austin Government Online Audit - August 2013
